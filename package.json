@@ -19,7 +19,7 @@
     "moment-timezone": "^0.5.11",
     "parse": "^1.11.0",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.0",
+    "react-native": "0.62.0",
     "react-native-deprecated-custom-components": "^0.1.1",
     "react-native-fbsdk": "0.6.0",
     "react-native-hyperlink": "^0.0.7",
