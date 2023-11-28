@@ -19,7 +19,7 @@
     "moment-timezone": "^0.5.11",
     "parse": "^1.11.0",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.0",
+    "react-native": "0.60.0",
     "react-native-deprecated-custom-components": "^0.1.1",
     "react-native-fbsdk": "0.6.0",
     "react-native-hyperlink": "^0.0.7",
@@ -30,12 +30,12 @@
     "react-native-push-notification": "^2.2.1",
     "react-native-tab-navigator": "^0.3.3",
     "react-redux": "^4.4.6",
-    "react-relay": "^1.4.0",
+    "react-relay": "^10.1.0",
     "redux": "^3.6.0",
     "redux-logger": "^2.7.4",
     "redux-persist": "^4.0.0-beta1",
     "redux-thunk": "^2.1.0",
-    "relay-runtime": "^1.4.0",
+    "relay-runtime": "^10.1.0",
     "reselect": "^2.5.4"
   },
   "devDependencies": {
